@@ -1,0 +1,1 @@
+﻿ Enable-ProjectServerLicense -Key Y2WC2-K7NFX-KWCVC-T4Q8P-XXXX
