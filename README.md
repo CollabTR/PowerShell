@@ -1,0 +1,2 @@
+# PowerShell
+Faydalı PowerShell Scriptleri
